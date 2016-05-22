@@ -1,0 +1,6 @@
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\bin\Debug\omikuji.exe.config
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\obj\Debug\omikuji.csprojResolveAssemblyReference.cache
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\bin\Debug\omikuji.exe
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\bin\Debug\omikuji.pdb
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\obj\Debug\omikuji.exe
+B:\users\yuuya\documents\visual studio 2015\Projects\omikuji\omikuji\obj\Debug\omikuji.pdb
